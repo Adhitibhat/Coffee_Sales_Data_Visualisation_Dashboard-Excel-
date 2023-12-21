@@ -4,6 +4,11 @@ This dataset serves as a cornerstone for managing and analyzing the operations o
 
 ### Description
 In this Excel mini dashboard project, I integrated three distinct datasets: Customers, Product, and Order details, to create a comprehensive and user-friendly data visualization tool. The project encompasses a series of data gathering and processing steps, leveraging advanced Excel functions and techniques.
+## Project Files
+
+Analysis Excel File : https://docs.google.com/spreadsheets/d/17lDZNPu9TzdFrxeF-e5KVy3qA_cCxnAa/edit?usp=sharing&ouid=104970154317054426867&rtpof=true&sd=true
+
+Dashboard :https://docs.google.com/spreadsheets/d/1-1AXMK8bK7QqqUZtfQH6C1O2yBrk1LIu/edit?usp=sharing&ouid=104970154317054426867&rtpof=true&sd=true
 
 #### 1. Data Gathering:
 a) IF Statements: Employed IF statements to conditionally execute specific actions based on predefined criteria. This may involve handling exceptions or creating dynamic data representations.
